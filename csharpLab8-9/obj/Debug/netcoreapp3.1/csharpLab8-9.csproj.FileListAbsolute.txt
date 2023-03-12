@@ -1,0 +1,14 @@
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\bin\Debug\netcoreapp3.1\csharpLab8-9.exe
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\bin\Debug\netcoreapp3.1\csharpLab8-9.deps.json
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\bin\Debug\netcoreapp3.1\csharpLab8-9.runtimeconfig.json
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\bin\Debug\netcoreapp3.1\csharpLab8-9.runtimeconfig.dev.json
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\bin\Debug\netcoreapp3.1\csharpLab8-9.dll
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\bin\Debug\netcoreapp3.1\csharpLab8-9.pdb
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.dll
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.pdb
+C:\Users\IVM505\source\repos\csharpLab8-9\csharpLab8-9\obj\Debug\netcoreapp3.1\csharpLab8-9.genruntimeconfig.cache
